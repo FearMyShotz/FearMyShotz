@@ -4,7 +4,7 @@ For example, I owned the [Saas Community Server](https://github.com/Saas-Communi
 
 Currently, I'm working on [Cirellium Network](https://github.com/Cirellium)
 
-Here are 
+Here are some of my stats:
 
 ![](https://github.com/FearMyShotz/FearMyShotz/blob/master/generated/overview.svg)
 ![](https://github.com/FearMyShotz/FearMyShotz/blob/master/generated/languages.svg)
