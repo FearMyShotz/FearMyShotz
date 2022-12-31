@@ -9,7 +9,7 @@ Here are some of my stats:
 ![](https://github.com/FearMyShotz/FearMyShotz/blob/master/generated/overview.svg)
 ![](https://github.com/FearMyShotz/FearMyShotz/blob/master/generated/languages.svg)
 
-[![Fear's GitHub stats](https://github-readme-stats.vercel.app/api?username=FearMyShotz)](https://github.com/anuraghazra/github-readme-stats)
+[![Fear's GitHub stats](https://github-readme-stats.vercel.app/api?username=FearMyShotz&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![FearMyShotz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FearMyShotz)](https://github.com/anuraghazra/github-readme-stats)
