@@ -6,6 +6,9 @@ Currently, I'm working on [Cirellium Network](https://github.com/Cirellium)
 
 Here are some of my stats:
 
+Wakatime total time spent coding since January 4, 2022:  
+[![wakatime](https://wakatime.com/badge/user/6c97bad2-36e8-437d-9761-77116f8274c5.svg)](https://wakatime.com/@6c97bad2-36e8-437d-9761-77116f8274c5)
+
 ![](https://github.com/FearMyShotz/FearMyShotz/blob/master/generated/overview.svg)
 ![](https://github.com/FearMyShotz/FearMyShotz/blob/master/generated/languages.svg)
 
