@@ -6,3 +6,4 @@ Currently, I'm working on [Cirellium Network](https://github.com/Cirellium)
 
 Here are some of my stats:
 
+![Metrics](/github-metrics.svg)
