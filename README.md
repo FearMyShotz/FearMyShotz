@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=FearMyShotz&color=red)
+
 I'm FearMyShotz (or Fear) and I have worked on several Minecraft server projects.
 
 For example, I owned the [Saas Community Server](https://github.com/Saas-Community-Server) for over a year
