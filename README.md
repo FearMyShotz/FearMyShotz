@@ -1,10 +1,12 @@
+<h1 align="center">Hi 👋, I'm Fear</h1>
+
 ![](https://komarev.com/ghpvc/?username=FearMyShotz&color=red)
 
-I'm FearMyShotz (or Fear) and I have worked on several Minecraft server projects.
+I have worked on several Minecraft server projects.
 
-For example, I owned the [Saas Community Server](https://github.com/Saas-Community-Server) for over a year
+- 💠 Currently working on [Cirellium Network](https://discord.gg/xSCaEVPXcs), a unique and aspiring Minecraft Network
 
-Currently, I'm working on [Cirellium Network](https://github.com/Cirellium)
+- 🐝 I owned the [Saas Community Server](https://github.com/Saas-Community-Server) for over a year
 
 Here are some of my stats:
 
