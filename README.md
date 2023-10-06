@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fear</h1>
 
-![](https://komarev.com/ghpvc/?username=FearMyShotz&color=red)
+![](https://komarev.com/ghpvc/?username=FearMyShotz&color=red)<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z6PUQY3)
 
 I have worked on several Minecraft server projects.
